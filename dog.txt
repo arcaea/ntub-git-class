@@ -1,2 +1,6 @@
+<<<<<<< HEAD
 dog 123
 dog
+=======
+asdf cat
+>>>>>>> cat
